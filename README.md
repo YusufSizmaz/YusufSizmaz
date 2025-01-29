@@ -14,4 +14,4 @@
 <a href="https://instagram.com/yusufsizmaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yusufsizmaz" height="30" width="40" /></a>
 </p>
 
-![GitHub Snake Animation](https://github.com/<YusufSizmaz>/<snake>/blob/output/github-contribution-grid-snake.svg)
+![GitHub Snake Animation](https://github.com/<yusufsizmaz>/<snake>/blob/output/github-contribution-grid-snake.svg)
