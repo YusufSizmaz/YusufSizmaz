@@ -13,3 +13,5 @@
 <a href="https://linkedin.com/in/yusufsizmaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yusufsizmaz" height="30" width="40" /></a>
 <a href="https://instagram.com/yusufsizmaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yusufsizmaz" height="30" width="40" /></a>
 </p>
+
+![GitHub Snake Animation](https://github.com/<kullanıcı-adınız>/<repo-adı>/blob/output/github-contribution-grid-snake.svg)
