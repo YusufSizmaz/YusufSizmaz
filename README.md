@@ -20,8 +20,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yusufsizmaz&show_icons=true&locale=en" alt="yusufsizmaz" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yusufsizmaz&" alt="yusufsizmaz" /></p>
-
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YusufSizmaz/YusufSizmaz/output/github-contribution-grid-snake-dark.svg">
