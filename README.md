@@ -1,7 +1,7 @@
 
 
 <h3>Hi 👋, I'm Yusuf Can Sızmaz</h3>
-- 🌱 I’m currently learning **web development**
+- 🌱 I’m currently learning web development
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yusufsizmaz&label=Profile%20views&color=0e75b6&style=flat" alt="yusufsizmaz" /> </p>
 
