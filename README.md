@@ -1,6 +1,6 @@
 <h4> Merhaba, ben Yusuf Sızmaz.
 
-24 yaşında bir Frontend Geliştirici olarak web geliştirme dünyasında kendimi sürekli geliştirme hedefiyle çalışıyorum. <span> HTML, CSS, JavaScript, Bootstrap ve React </span> teknolojileri üzerine yoğunlaşarak modern ve kullanıcı dostu web arayüzleri oluşturma konusunda uzmanlaşmayı amaçlıyorum.
+Kendimi sürekli geliştirme hedefiyle çalışıyorum. <span>  HTML, CSS, JavaScript, React, NodeJS ve  </span> teknolojileri üzerine yoğunlaşarak modern ve kullanıcı dostu web arayüzleri oluşturma konusunda uzmanlaşmayı amaçlıyorum.
 
 Her geçen gün yeni teknolojiler öğreniyor ve bu alanda güçlü bir kariyer inşa etmek için çaba gösteriyorum.</h4>
 
