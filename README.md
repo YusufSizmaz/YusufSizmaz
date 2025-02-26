@@ -1,6 +1,6 @@
 <h4> Merhaba, ben Yusuf Sızmaz.
 
-Kendimi sürekli geliştirme hedefiyle çalışıyorum. <span>  HTML, CSS, JavaScript, React, NodeJS ve  </span> teknolojileri üzerine yoğunlaşarak modern ve kullanıcı dostu web arayüzleri oluşturma konusunda uzmanlaşmayı amaçlıyorum.
+Kendimi sürekli geliştirme hedefiyle çalışıyorum. <span>  HTML, CSS, JavaScript, React, NodeJS  </span> teknolojileri üzerine yoğunlaşarak modern ve kullanıcı dostu web arayüzleri oluşturma konusunda uzmanlaşmayı amaçlıyorum.
 
 Her geçen gün yeni teknolojiler öğreniyor ve bu alanda güçlü bir kariyer inşa etmek için çaba gösteriyorum.</h4>
 
